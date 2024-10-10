@@ -13,3 +13,7 @@ salary["kabwa"]=8000
 print(salary)
 salary.pop("andre")
 print(salary)
+salary["havyarimana"]=9000000
+print(salary)
+
+
