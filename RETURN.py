@@ -11,4 +11,5 @@ for name in salary.keys():
  print(name)
 salary["kabwa"]=8000
 print(salary)
-del
+salary.pop("andre")
+print(salary)
