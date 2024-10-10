@@ -1,0 +1,7 @@
+arr=input("enter integers separated by a camma:")
+arr1=arr.split()
+arr1.append(45)
+arr1.insert(1,6)
+arr1.count(1)
+arr1.reverse()
+print(arr1)
